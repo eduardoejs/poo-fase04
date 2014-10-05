@@ -7,10 +7,14 @@ Arquivo descritivo sobre a Fase 4 do módulo Programação Orientdada a Objetos,
 -----------------------------
 Procedimentos para instalação
 -----------------------------
-**1**. Ter instalado na máquina o MySQL Server e o PHP 5.4 ou superior
+**1**. Ter instalado na máquina o MySQL Server e o PHP 5.4 ou superior 
+
 **2**. Usar o servidor Built-in web server do próprio PHP
+
 **3**. Para gerar a base de dados acesse a rota /fixture. (Exemplo: localhost:8080/fixture)
+
 **4**. Para popular a tabela acesse a rota /persist. (Exemplo: localhost:8080/persist)
+
 **5**. Para visualizar a aplicação em execução acesse a rota /visualizar. (Exemplo: localhost:8080/visualizar)
 
 --------------
