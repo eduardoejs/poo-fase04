@@ -13,7 +13,7 @@ class Rotas {
 
         $rota = $path[1];
 
-        $rotas_sistema = ["visualizar", "fixture", "persist","404"];
+        $rotas_sistema = ["visualizar", "fixture","404"];
 
         if(empty($rota)){
             require_once ('paginas/visualizar.php');

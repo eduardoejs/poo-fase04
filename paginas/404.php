@@ -10,8 +10,6 @@
 <div class="jumbotron">
     <div class="container">
     <h1>A página que você requisitou não existe!</h1>
-    <p>...</p>
-        <p><a class="btn btn-primary btn-lg" role="button">Learn more</a></p>
 </div>
 </div>
 </body>
